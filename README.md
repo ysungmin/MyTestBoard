@@ -17,7 +17,8 @@
 
 ## 추가 구현 목표
 * 네이버, 카카오등의 계정으로 가입하는 기능
-* ASP.NET, C# Blazor, Python flask등 다양한 형태로 구현 하는 것
+* 백앤드 부분을 ASP.NET, C# Blazor, Python flask등 다양한 방식으로 구현 하기
+* DB 또한 MySQL, Oracle, SQL Server 등을 활용해본다.
 
 ## 사용할 기술
-* JAVA, Spring Boot, JavaScript, HTML, CSS
+* JAVA, Spring Boot, JavaScript, HTML, CSS, MySQL
